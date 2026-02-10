@@ -1,9 +1,13 @@
 👋 Hi, I'm Sowjanya
 
 🎓 Electronics and Communication Graduate
+
 💻 Full Stack Developer (MERN & PHP)
+
 ⚛️ React & Redux Enthusiast
+
 🤖 AI/ML Internship Experience (IBM SkillsBuild Collaboration)
+
 🚀 Open to Entry-Level Software Developer Opportunities
 
 **🛠 Tech Stack**
